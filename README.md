@@ -1,1 +1,1 @@
-# call-of-2d-zombies
+# Call of 2D: Zombies
